@@ -21,3 +21,5 @@ gem 'finstyle'
 gem 'guard-rubocop'
 gem 'guard-rspec'
 gem 'guard-foodcritic'
+
+omg im an error!
