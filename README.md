@@ -26,20 +26,3 @@ end
 ```
 
 * `option` – Description of option. *(default: node['layton-test']['option'])*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
